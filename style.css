@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: black;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  padding: 5px;
+  background: #fcb514;
+  margin-bottom: 10px;
+}
